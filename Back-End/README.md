@@ -2,10 +2,10 @@
 
 App built by the week omnistack with CTO Diego Fernandes
 
-### Install dependences
+### `Install dependences`
 
 npm install
 
-### Init App
+### `Init App`
 
 npm dev
